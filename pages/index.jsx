@@ -32,10 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            I’m Chathudu Sahassara, a passionate software developer who loves turning ideas into smart and user-friendly digital solutions. I enjoy creating websites, systems, and AI projects that make technology simple, powerful, and meaningful. Every project I build is a step toward combining creativity and code to make everyday life a little smarter.
           </motion.p>
 
           {/* btn */}
